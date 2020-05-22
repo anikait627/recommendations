@@ -1,5 +1,5 @@
 # recommendations
-implementations of recommendation algorithms:
--> [Demographic Filtering] (recommendations/demographicFiltering.ipynb)
--> [Content Based Filtering](recommendations/content-based-filtering.ipynb)
--> Collaborative Fltering
+implementations of recommendation algorithms: 
+-> [Demographic Filtering] (https://github.com/anikait627/recommendations/blob/master/demographicFiltering.ipynb) 
+-> [Content Based Filtering](https://github.com/anikait627/recommendations/blob/master/content-based-filtering.ipynb) 
+-> Collaborative Fltering 
